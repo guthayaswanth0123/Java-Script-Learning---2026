@@ -3,7 +3,6 @@
 
 
 //DATA TYPES
-//1. typeof -> typeof is an operator used to identify the type of a value.
 
 let age=20;
 console.log(typeof age);
